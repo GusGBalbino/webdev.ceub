@@ -21,4 +21,4 @@ Passos necessários para inciar a programação Web e executar um projeto web si
 
 - Run As > Run on Server
 
-**Primeira aplicação web feita**
+- Primeira aplicação web feita!
