@@ -7,8 +7,10 @@
 <title>Login</title>
 </head>
 <body>
-<p><h3>**FAÇA SEU LOGIN AQUI**</h3></p>
-<p><h3>Login:_______________</h3></p>
-<p><h3>Senha:_______________ </h3></p>
+<form action="ServletLogin" method="post">
+	Usuário: <input type="text" name="usuario"><br>
+	Senha: <input type="password" name="senha"><br>
+	<input type="submit" value="Autenticar">
+</form>
 </body>
 </html>
